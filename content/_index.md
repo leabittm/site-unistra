@@ -42,7 +42,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        featured_only: true
       design:
         view: citation
         columns: 2
@@ -53,7 +53,7 @@ sections:
       filters:
         folders:
           - publication
-        featured_only: true
+        exclude_featured: true
     design:
       view: citation
       columns: 2
