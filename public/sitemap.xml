@@ -2,14 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.normalesup.org/~lbittmann/event/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://www.normalesup.org/~lbittmann/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication_types/3/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -126,16 +118,56 @@
     <lastmod>2023-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/spetses/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/</loc>
+    <lastmod>2023-07-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/imag/</loc>
+    <lastmod>2023-04-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/irma/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/lmv/</loc>
+    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication/det_form/</loc>
     <lastmod>2023-01-02T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/univie-22/</loc>
+    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.normalesup.org/~lbittmann/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/leeds/</loc>
+    <lastmod>2022-05-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/rennes/</loc>
+    <lastmod>2022-04-28T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/algebra-ihp/</loc>
+    <lastmod>2022-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication/itp/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/mfo/</loc>
+    <lastmod>2021-11-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication_types/2/</loc>
@@ -146,12 +178,56 @@
     <lastmod>2021-10-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/hodge/</loc>
+    <lastmod>2021-09-29T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/caen/</loc>
+    <lastmod>2021-03-16T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/clermont/</loc>
+    <lastmod>2021-02-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication/cz/</loc>
     <lastmod>2020-12-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/cirmzoom/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/ucrzoom/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/lacim/</loc>
+    <lastmod>2020-11-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/qad/</loc>
+    <lastmod>2020-11-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication/ta/</loc>
     <lastmod>2020-07-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/wgcluster/</loc>
+    <lastmod>2020-07-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/artin/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/gdr/</loc>
+    <lastmod>2020-02-03T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/wienwg/</loc>
+    <lastmod>2019-11-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication_types/7/</loc>
@@ -186,12 +262,56 @@
     <lastmod>2019-07-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/ca19/</loc>
+    <lastmod>2019-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/wien/</loc>
+    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/river2/</loc>
+    <lastmod>2019-02-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/seminaire/</loc>
+    <lastmod>2019-01-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/brazil/</loc>
+    <lastmod>2018-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/koln/</loc>
+    <lastmod>2018-11-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/aachen/</loc>
+    <lastmod>2018-11-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/eth/</loc>
+    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication/asm/</loc>
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.normalesup.org/~lbittmann/tags/standard-modules/</loc>
     <lastmod>2018-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/dc/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/river/</loc>
+    <lastmod>2018-05-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.normalesup.org/~lbittmann/event/esi/</loc>
+    <lastmod>2017-01-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.normalesup.org/~lbittmann/publication/master/</loc>

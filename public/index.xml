@@ -13,27 +13,6 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
-      <link>http://www.normalesup.org/~lbittmann/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://www.normalesup.org/~lbittmann/event/example/</guid>
-      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
-&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
-  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
-&lt;/span&gt;
-  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
-&lt;/div&gt;
-&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Infinite friezes of affine type $D$</title>
       <link>http://www.normalesup.org/~lbittmann/publication/winart/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
@@ -286,7 +265,7 @@
 
 
 
-&lt;div id=&#34;chart-829136457&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-365182974&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -304,7 +283,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-829136457&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-365182974&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -919,10 +898,74 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Hecke algebras and applications Conference</title>
+      <link>http://www.normalesup.org/~lbittmann/event/spetses/</link>
+      <pubDate>Sun, 16 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/spetses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire AGATA</title>
+      <link>http://www.normalesup.org/~lbittmann/event/imag/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/imag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire Algèbre et topologie</title>
+      <link>http://www.normalesup.org/~lbittmann/event/irma/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/irma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire AG</title>
+      <link>http://www.normalesup.org/~lbittmann/event/lmv/</link>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/lmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>On a determinant formula for some real regular representations</title>
       <link>http://www.normalesup.org/~lbittmann/publication/det_form/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.normalesup.org/~lbittmann/publication/det_form/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Theory and Automorphic Forms Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/univie-22/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/univie-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridges between representation theory and algebraic geometry: Singularities, friezes and cluster categories Conference</title>
+      <link>http://www.normalesup.org/~lbittmann/event/leeds/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/leeds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire de Géométrie arithmétique</title>
+      <link>http://www.normalesup.org/~lbittmann/event/rennes/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/rennes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire d&#39;Algèbre</title>
+      <link>http://www.normalesup.org/~lbittmann/event/algebra-ihp/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/algebra-ihp/</guid>
       <description></description>
     </item>
     
@@ -935,10 +978,42 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Enveloping Algebras and Geometric Representation Theory Conference</title>
+      <link>http://www.normalesup.org/~lbittmann/event/mfo/</link>
+      <pubDate>Wed, 03 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/mfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Type $A$ DAHA and Doubly Periodic Tableaux</title>
       <link>http://www.normalesup.org/~lbittmann/publication/dpt/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
       <guid>http://www.normalesup.org/~lbittmann/publication/dpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hodge Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/hodge/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/hodge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire d&#39;algèbre et de géométrie</title>
+      <link>http://www.normalesup.org/~lbittmann/event/caen/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/caen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire GAAO</title>
+      <link>http://www.normalesup.org/~lbittmann/event/clermont/</link>
+      <pubDate>Fri, 12 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/clermont/</guid>
       <description></description>
     </item>
     
@@ -951,10 +1026,74 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Quantum Groups and Cohomology Theory of Quiver and Flag Varieties Conference</title>
+      <link>http://www.normalesup.org/~lbittmann/event/cirmzoom/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/cirmzoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lie theory Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/ucrzoom/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/ucrzoom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire du LaCIM</title>
+      <link>http://www.normalesup.org/~lbittmann/event/lacim/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/lacim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Algebra Days</title>
+      <link>http://www.normalesup.org/~lbittmann/event/qad/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/qad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Quantum Grothendieck rings as quantum cluster algebras</title>
       <link>http://www.normalesup.org/~lbittmann/publication/ta/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
       <guid>http://www.normalesup.org/~lbittmann/publication/ta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working group : Cluster algebras and quiver representations</title>
+      <link>http://www.normalesup.org/~lbittmann/event/wgcluster/</link>
+      <pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/wgcluster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARTIN Workshop</title>
+      <link>http://www.normalesup.org/~lbittmann/event/artin/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/artin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colloque Tournant du GDR</title>
+      <link>http://www.normalesup.org/~lbittmann/event/gdr/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/gdr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminar: Representation Theory and Automorphic Forms</title>
+      <link>http://www.normalesup.org/~lbittmann/event/wienwg/</link>
+      <pubDate>Tue, 19 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/wienwg/</guid>
       <description></description>
     </item>
     
@@ -967,10 +1106,98 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
+      <title>Cluster Algebras 2019, Poster of the Day</title>
+      <link>http://www.normalesup.org/~lbittmann/event/ca19/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/ca19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Number Theory Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/wien/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/wien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tenure-track talk</title>
+      <link>http://www.normalesup.org/~lbittmann/event/river2/</link>
+      <pubDate>Thu, 14 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/river2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Séminaire Groupes, Représentations et Géométrie</title>
+      <link>http://www.normalesup.org/~lbittmann/event/seminaire/</link>
+      <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/seminaire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XXV Brazilian Algebra Meeting, Lie algebras and their representations Session</title>
+      <link>http://www.normalesup.org/~lbittmann/event/brazil/</link>
+      <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/brazil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oberseminar Algebra</title>
+      <link>http://www.normalesup.org/~lbittmann/event/koln/</link>
+      <pubDate>Tue, 27 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/koln/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aachen Research Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/aachen/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/aachen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks in mathematical physics Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/eth/</link>
+      <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/eth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Asymptotics of standard modules of quantum affine algebras</title>
       <link>http://www.normalesup.org/~lbittmann/publication/asm/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
       <guid>http://www.normalesup.org/~lbittmann/publication/asm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Affine Algebras Conference</title>
+      <link>http://www.normalesup.org/~lbittmann/event/dc/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/dc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lie Theory Seminar</title>
+      <link>http://www.normalesup.org/~lbittmann/event/river/</link>
+      <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/river/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry and Representation Theory Conference</title>
+      <link>http://www.normalesup.org/~lbittmann/event/esi/</link>
+      <pubDate>Wed, 18 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.normalesup.org/~lbittmann/event/esi/</guid>
       <description></description>
     </item>
     
