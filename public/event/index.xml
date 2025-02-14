@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Homepage of Lea Bittmann</title>
+    <title>Exposés récents ou à venir | Homepage of Lea Bittmann</title>
     <link>http://www.normalesup.org/~lbittmann/event/</link>
       <atom:link href="http://www.normalesup.org/~lbittmann/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Exposés récents ou à venir</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Sun, 16 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.normalesup.org/~lbittmann/media/icon_hu_f796efd98281268b.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Exposés récents ou à venir</title>
       <link>http://www.normalesup.org/~lbittmann/event/</link>
     </image>
     

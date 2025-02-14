@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Exposés récents ou à venir
 cms_exclude: true
 #url: talk
 

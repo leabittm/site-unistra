@@ -39,7 +39,7 @@ sections:
           - publication
         exclude_featured: true
       design:
-      view: citation
+        view: citation
       #columns: 2
   - block: collection
     content:
