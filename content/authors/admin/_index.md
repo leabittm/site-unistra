@@ -46,10 +46,10 @@ interests:
   - Combinatoire, Algèbres Amassées (Quantiques), etc
 
 education:
-  - course: Doctorat de Mathématiques
+  - area: Doctorat de Mathématiques
     institution: Université Paris Diderot
     year: 2019
-  - course: Master de Mathématiques
+  - area: Master de Mathématiques
     institution: Université Paris Diderot
     year: 2015
 # Skills
