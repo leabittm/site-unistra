@@ -7,7 +7,7 @@
     <description>Homepage of Lea Bittmann</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://www.normalesup.org/~lbittmann/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://www.normalesup.org/~lbittmann/media/icon_hu_f796efd98281268b.png</url>
       <title>Homepage of Lea Bittmann</title>
       <link>http://www.normalesup.org/~lbittmann/</link>
     </image>
@@ -286,7 +286,7 @@
 
 
 
-&lt;div id=&#34;chart-932416857&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-829136457&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -304,7 +304,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-932416857&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-829136457&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -592,10 +592,10 @@ data.head()
     </item>
     
     <item>
-      <title>Experience</title>
-      <link>http://www.normalesup.org/~lbittmann/experience/</link>
+      <title>Autres activités</title>
+      <link>http://www.normalesup.org/~lbittmann/autres/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.normalesup.org/~lbittmann/experience/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/autres/</guid>
       <description></description>
     </item>
     

@@ -16,8 +16,8 @@ main:
   - name: Enseignement
     url: '#teaching'
     weight: 40
-  - name: Experience
-    url: experience/
-    weight: 20
+  - name: Autres activités
+    url: autres/
+    weight: 50
 
 
