@@ -37,6 +37,8 @@ profiles:
     url: https://arxiv.org/search/math?searchtype=author&query=Bittmann%2C+L
   - icon: academicons/researchgate
     url: https://www.researchgate.net/profile/Lea_Bittmann
+  - icon: academicons/cv
+    link: uploads/cv.pdf
 
 interests:
   - Théorie des représentations
