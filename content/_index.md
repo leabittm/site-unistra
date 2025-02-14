@@ -36,10 +36,13 @@ sections:
     content:
       title: Publications
       text: ""
+      headless: true
+      count: 0
+      offset: 0
       filters:
         folders:
           - publication
-        #exclude_featured: true
+        exclude_featured: true
       design:
         view: citation
         columns: 2
