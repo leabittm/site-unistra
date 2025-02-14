@@ -27,7 +27,7 @@ summary:
 
 #tags:
 #- Quantum affine algebras, 
-featured: false
+featured: true
 
 # links:
 # - name: ""

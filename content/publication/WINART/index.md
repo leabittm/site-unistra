@@ -31,7 +31,7 @@ abstract: In this article, we study infinite friezes arising from cluster catego
 
 
 
-featured: false
+featured: true
 
 # links:
 # - name: ""

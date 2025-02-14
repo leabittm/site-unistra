@@ -29,7 +29,7 @@ summary:
 
 #tags:
 #- Quantum affine algebras, Category O, Standard modules
-featured: false
+featured: true
 
 # links:
 # - name: ""

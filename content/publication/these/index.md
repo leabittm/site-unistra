@@ -36,7 +36,7 @@ tags:
 - Quantum Grothendieck Rings
 - Quantum Cluster Algebras
 
-featured: true
+featured: false
 
 # links:
 # - name: ""
