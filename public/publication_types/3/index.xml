@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication_types/3/</link>
-      <atom:link href="https://example.com/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Homepage of Lea Bittmann</title>
+    <link>http://www.normalesup.org/~lbittmann/publication_types/3/</link>
+      <atom:link href="http://www.normalesup.org/~lbittmann/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Mon, 15 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://www.normalesup.org/~lbittmann/media/icon_hu_645fa481986063ef.png</url>
       <title>3</title>
-      <link>https://example.com/publication_types/3/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication_types/3/</link>
     </image>
     
     <item>
       <title>Infinite friezes of affine type $D$</title>
-      <link>https://example.com/publication/winart/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/winart/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/winart/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/winart/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On a determinant formula for some real regular representations</title>
-      <link>https://example.com/publication/det_form/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/det_form/</link>
       <pubDate>Mon, 02 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/det_form/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/det_form/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the simplicity of the tensor product of two simple modules of quantum affine algebras</title>
-      <link>https://example.com/publication/itp/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/itp/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/itp/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/itp/</guid>
       <description></description>
     </item>
     

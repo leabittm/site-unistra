@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quantum Affine Algebras | Hugo Academic CV Theme</title>
-    <link>https://example.com/tags/quantum-affine-algebras/</link>
-      <atom:link href="https://example.com/tags/quantum-affine-algebras/index.xml" rel="self" type="application/rss+xml" />
+    <title>Quantum Affine Algebras | Homepage of Lea Bittmann</title>
+    <link>http://www.normalesup.org/~lbittmann/tags/quantum-affine-algebras/</link>
+      <atom:link href="http://www.normalesup.org/~lbittmann/tags/quantum-affine-algebras/index.xml" rel="self" type="application/rss+xml" />
     <description>Quantum Affine Algebras</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://www.normalesup.org/~lbittmann/media/icon_hu_645fa481986063ef.png</url>
       <title>Quantum Affine Algebras</title>
-      <link>https://example.com/tags/quantum-affine-algebras/</link>
+      <link>http://www.normalesup.org/~lbittmann/tags/quantum-affine-algebras/</link>
     </image>
     
     <item>
       <title>Quantum Grothendieck rings, cluster algebras and quantum affine category $O$</title>
-      <link>https://example.com/publication/these/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/these/</link>
       <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/these/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/these/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymptotics of standard modules of quantum affine algebras</title>
-      <link>https://example.com/publication/asm/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/asm/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asm/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/asm/</guid>
       <description></description>
     </item>
     

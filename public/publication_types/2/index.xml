@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2 | Hugo Academic CV Theme</title>
-    <link>https://example.com/publication_types/2/</link>
-      <atom:link href="https://example.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <title>2 | Homepage of Lea Bittmann</title>
+    <link>http://www.normalesup.org/~lbittmann/publication_types/2/</link>
+      <atom:link href="http://www.normalesup.org/~lbittmann/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>fr-FR</language><lastBuildDate>Thu, 07 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <url>http://www.normalesup.org/~lbittmann/media/icon_hu_645fa481986063ef.png</url>
       <title>2</title>
-      <link>https://example.com/publication_types/2/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication_types/2/</link>
     </image>
     
     <item>
       <title>Type $A$ DAHA and Doubly Periodic Tableaux</title>
-      <link>https://example.com/publication/dpt/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/dpt/</link>
       <pubDate>Thu, 07 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/dpt/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/dpt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A quantum cluster algebra approach to representations of simply-laced quantum affine algebras</title>
-      <link>https://example.com/publication/cz/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/cz/</link>
       <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/cz/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/cz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum Grothendieck rings as quantum cluster algebras</title>
-      <link>https://example.com/publication/ta/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/ta/</link>
       <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/ta/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/ta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymptotics of standard modules of quantum affine algebras</title>
-      <link>https://example.com/publication/asm/</link>
+      <link>http://www.normalesup.org/~lbittmann/publication/asm/</link>
       <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/asm/</guid>
+      <guid>http://www.normalesup.org/~lbittmann/publication/asm/</guid>
       <description></description>
     </item>
     
