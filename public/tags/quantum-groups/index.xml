@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Groups | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/quantum-groups/</link>
+      <atom:link href="https://example.com/tags/quantum-groups/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quantum Groups</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Quantum Groups</title>
+      <link>https://example.com/tags/quantum-groups/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Grothendieck rings, cluster algebras and quantum affine category $O$</title>
+      <link>https://example.com/publication/these/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/these/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

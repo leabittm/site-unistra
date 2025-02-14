@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | Hugo Academic CV Theme</title>
+    <link>https://example.com/publication_types/7/</link>
+      <atom:link href="https://example.com/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>7</title>
+      <link>https://example.com/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Quantum Grothendieck rings, cluster algebras and quantum affine category $O$</title>
+      <link>https://example.com/publication/these/</link>
+      <pubDate>Tue, 16 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/these/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representations of the Yangian in Deligne&#39;s category $Rep(Gl_{t})$</title>
+      <link>https://example.com/publication/master/</link>
+      <pubDate>Fri, 25 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/master/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

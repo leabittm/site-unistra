@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Standard Modules | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/standard-modules/</link>
+      <atom:link href="https://example.com/tags/standard-modules/index.xml" rel="self" type="application/rss+xml" />
+    <description>Standard Modules</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu_645fa481986063ef.png</url>
+      <title>Standard Modules</title>
+      <link>https://example.com/tags/standard-modules/</link>
+    </image>
+    
+    <item>
+      <title>Asymptotics of standard modules of quantum affine algebras</title>
+      <link>https://example.com/publication/asm/</link>
+      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/asm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
