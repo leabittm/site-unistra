@@ -22,7 +22,7 @@ sections:
     design:
       css_class: dark
       background:
-        color: black
+        color: green
         #image:
           # Add your image background to `assets/media/`.
           #filename: stacked-peaks.svg
@@ -52,6 +52,7 @@ sections:
         featured_only: true
     design:
       view: citation
+      columns: 2
   - block: collection
     id: talks
     content:
