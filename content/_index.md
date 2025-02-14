@@ -32,21 +32,6 @@ sections:
           #position: center
           #parallax: false
   - block: collection
-    #id: publications
-    content:
-      title: Publications
-      text: ""
-      headless: true
-      count: 0
-      offset: 0
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-      design:
-        view: citation
-        columns: 2
-  - block: collection
     content:
       title: Autres textes
       text: ""
@@ -68,6 +53,21 @@ sections:
       view: list
       columns: 2
       flip_alt_rows: true
+  - block: collection
+    #id: publications
+    content:
+      title: Publications
+      text: ""
+      headless: true
+      count: 0
+      offset: 0
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+      design:
+        view: citation
+        columns: 2
 
         
   
