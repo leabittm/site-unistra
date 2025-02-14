@@ -39,8 +39,8 @@ sections:
           - publication
         exclude_featured: true
       design:
-        view: citation
-      #columns: 2
+          view: citation
+          columns: 2
   - block: collection
     content:
       title: Autres textes
